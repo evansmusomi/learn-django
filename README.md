@@ -23,10 +23,18 @@ Here's a sequence of tutorials to help you build a Django 1.11 app.
 3. [Understanding Querysets](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=8162s)
 4. [Using Generic ListViews](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=8719s)
 5. [Working with DetailViews](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=9261s)
+6. [Getting Single Items from the Database](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=10848s)
 
 ### Working with URLs
 1. [Common Regular Expressions for Django URLs](https://www.codingforentrepreneurs.com/blog/common-regular-expressions-for-django-urls/)
 2. [Slug Fields and The Unique Slug Generator](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=9879s)
+3. [Slugs as URL Parameters](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=10703s)
+
+### Working with Forms
+1. [Saving Data the Wrong and Hard Way](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=11527s)
+2. [The Power of Django Forms](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=12650s)
+3. [The Extra Power of Django Model Forms](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=13200s)
+4. [Effective Validation](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=13656s)
 
 ### Data Hooks
 1. [Using Signals](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=10303s)
