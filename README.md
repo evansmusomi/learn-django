@@ -24,6 +24,7 @@ Here's a sequence of tutorials to help you build a Django 1.11 app.
 4. [Using Generic ListViews](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=8719s)
 5. [Working with DetailViews](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=9261s)
 6. [Getting Single Items from the Database](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=10848s)
+7. [Working with Foreign Keys in Models](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=14397s)
 
 ### Working with URLs
 1. [Common Regular Expressions for Django URLs](https://www.codingforentrepreneurs.com/blog/common-regular-expressions-for-django-urls/)
@@ -35,6 +36,10 @@ Here's a sequence of tutorials to help you build a Django 1.11 app.
 2. [The Power of Django Forms](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=12650s)
 3. [The Extra Power of Django Model Forms](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=13200s)
 4. [Effective Validation](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=13656s)
+
+### Authentication, Authorization and Data Ownership
+1. [Data Ownership using Class Based Views](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=15814s)
+2. [Requiring Login to View](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=16097s)
 
 ### Data Hooks
 1. [Using Signals](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=10303s)
