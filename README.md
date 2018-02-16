@@ -30,6 +30,7 @@ Here's a sequence of tutorials to help you build a Django 1.11 app.
 1. [Common Regular Expressions for Django URLs](https://www.codingforentrepreneurs.com/blog/common-regular-expressions-for-django-urls/)
 2. [Slug Fields and The Unique Slug Generator](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=9879s)
 3. [Slugs as URL Parameters](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=10703s)
+4. [Using Reverse to Shortcut URLs](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=17014s)
 
 ### Working with Forms
 1. [Saving Data the Wrong and Hard Way](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=11527s)
@@ -40,6 +41,7 @@ Here's a sequence of tutorials to help you build a Django 1.11 app.
 ### Authentication, Authorization and Data Ownership
 1. [Data Ownership using Class Based Views](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=15814s)
 2. [Requiring Login to View](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=16097s)
+3. [Login View](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=16340s)
 
 ### Data Hooks
 1. [Using Signals](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=10303s)
