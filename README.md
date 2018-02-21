@@ -47,5 +47,9 @@ Here's a sequence of tutorials to help you build a Django 1.11 app.
 ### 8. Data Hooks
 1. [Using Signals](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=10303s)
 
-### 9. Implementing Common Features
-1. [Example Implementation of Search Functionality](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=22304s)
+### 9. Supporting Common Use Cases
+1. [Example Search Functionality](https://www.youtube.com/watch?v=yDv5FIAeyoY&t=22304s)
+2. [User Registration](https://youtu.be/yDv5FIAeyoY?t=7h28m14s)
+3. [User Log Out](https://youtu.be/yDv5FIAeyoY?t=7h44m31s)
+4. [User Activation Email](https://youtu.be/yDv5FIAeyoY?t=7h46m53s)
+5. [Going Live](https://www.youtube.com/watch?v=4DggiEkbCTg)
